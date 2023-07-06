@@ -1,5 +1,7 @@
 # digitalstrom-export-csv
-A simple Python script with Selenium which opens the digitalSTROM server and then downloads the CSV file via PyAutoGUI.
+A simple Python script with Selenium which opens the digitalSTROM server and then downloads the metering CSV file via PyAutoGUI.
+
+This can be used, for example, for anomaly detection of an artificial intelligence so that training data is stored regularly.
 
 ## Installation
 
